@@ -3,7 +3,7 @@
 Azure Active Directory is now Microsoft Entra ID.
 
 > [!NOTE]
-> Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)
+> Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)  
 > AZ-104 | Azure Administrator Associate Full Course in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLdjivcdVUZLap0DKDKFBYLNrNDYKQg08I)
 
 > [!TIP]
