@@ -29,7 +29,28 @@ Microsoft has changed the name of the uh the directory service of Azure that we 
 
 Microsoft Entra ID is a cloud-based identity and access management solution. It's a directory and identity management service that operates in the cloud and offers authentication and authorization services to various Microsoft services, such as Microsoft 365, Dynamics 365, and Microsoft Azure.
 ```
-https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
+**Entra** : https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
+ ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
+ 
+</p>
+</details>
+
+---
+
+### 2. What is Tenant ?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+```
+A tenant is a dedicated and trusted instance of Microsoft Entra ID that contains an organization's resources, including registered apps and a directory of users. There are two ways to configure a tenant, depending on how the organization intends to use the tenant and the resources they want to manage:
+
+A workforce tenant configuration is for your employees, internal business apps, and other organizational resources. You can invite external business partners and guests to your workforce tenant.
+An external tenant configuration is used exclusively for External ID scenarios where you want to publish apps to consumers or business customers (learn more about External ID in external tenants)
+```
+**Tenant :** https://learn.microsoft.com/en-us/entra/external-id/tenant-configurations  
+**Create a new Tanant :** https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant  
  ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
  
 </p>
