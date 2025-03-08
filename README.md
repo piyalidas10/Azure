@@ -54,7 +54,7 @@ Multiple subscriptions are created to separate production dev test workloads or 
 ```
 **Tenant :** https://learn.microsoft.com/en-us/entra/external-id/tenant-configurations  
 **Create a new Tanant :** https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant  
- ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
+ ![Azure subscriptions](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Subscription.png)
  
 </p>
 </details>
