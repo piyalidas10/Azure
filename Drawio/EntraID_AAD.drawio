@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
+  <diagram name="Page-1" id="oGt7gixbmbRS9VxZeW-b">
+    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2hNXxdaZzxLUuH1hye88-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. Create Account in Azure Portal&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;using tech@gmail.com. will get Tenant id &amp;amp; domain name.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="53" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;2. Automatically a&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;b style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Default Directory&lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;will be created with unique&amp;nbsp;&lt;b style=&quot;color: rgb(0, 0, 0); background-color: rgb(251, 251, 251);&quot;&gt;Primary domain&lt;/b&gt;&amp;nbsp;after create an account in Azure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="60" y="53" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="105" width="690" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-6" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Default Directory&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Tanent ID :&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-family: var(--ff-mono); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; white-space: inherit; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;1234-YYYY-HHHH-GGGG...&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: var(--ff-mono); font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; white-space: inherit; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Primary Domain &lt;/b&gt;&lt;span style=&quot;font-weight: inherit;&quot;&gt;: tech.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 8px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;onmicrosoft.com&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="335" y="50" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-7" value="3. Create a subscription before use any resource" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Azure Active Directory - Tenant, Subscription and Directory&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="10" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="135" y="135" width="305" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-12" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Subscription 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#2372e1, #1d293b);strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="135" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-13" value="&lt;div&gt;&lt;b&gt;RG1 (resource group)&lt;/b&gt; inside subscription for separate billing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="150" y="175" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-14" value="&lt;b&gt;RG2 (resource group)&lt;/b&gt; inside subscription separate billing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="290" y="175" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="135" width="305" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-16" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Subscription 2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#2372e1, #1d293b);strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="470" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-18" value="&lt;div&gt;&lt;b&gt;RG3 (resource group)&lt;/b&gt; inside subscription for separate billing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;For Creating virtual machine,&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;need &lt;b&gt;Subscription &lt;/b&gt;&amp;amp; &lt;b&gt;Resource group&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="490" y="175" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-19" value="Virtual Machine" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="510" y="225" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2hNXxdaZzxLUuH1hye88-20" value="&lt;b&gt;NOTE:&lt;/b&gt; User can have 1. Multiple subscriptions in one Tanent Id 2. Multiple resource groups in one Subscription 3. Multiple domains under a single Tanent ID 4. Multiple Tenant IDs with same azure account" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="370" width="690" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
