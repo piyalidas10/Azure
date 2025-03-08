@@ -31,6 +31,7 @@ Microsoft Entra ID is a cloud-based identity and access management solution. It'
 ```
 **Entra** : https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
  ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
+ ![Azure_Active_Drectory](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Active_Drectory.png)
  
 </p>
 </details>
