@@ -30,6 +30,7 @@ Microsoft has changed the name of the uh the directory service of Azure that we 
 Microsoft Entra ID is a cloud-based identity and access management solution. It's a directory and identity management service that operates in the cloud and offers authentication and authorization services to various Microsoft services, such as Microsoft 365, Dynamics 365, and Microsoft Azure.
 ```
 **Entra** : https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
+**Hindi Tutorial :** https://www.youtube.com/watch?v=xEvSFyXBX58&list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m&index=2
  ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
  ![Azure_Active_Drectory](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Active_Drectory.png)
  
@@ -54,7 +55,8 @@ Multiple subscriptions are created to separate production dev test workloads or 
 ```
 **Tenant :** https://learn.microsoft.com/en-us/entra/external-id/tenant-configurations  
 **Create a new Tanant :** https://learn.microsoft.com/en-us/entra/fundamentals/create-new-tenant  
- ![Azure subscriptions](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Subscription.png)
+**Hindi Tutorial :** https://www.youtube.com/watch?v=mVV_4O_QPI0&list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m&index=3
+ ![ Azure landing zone architecture](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-area/media/azure-scopes-billing.svg)
  
 </p>
 </details>
@@ -78,8 +80,7 @@ Multiple subscriptions are created to separate production dev test workloads or 
 Now this is a diagram where you can see that the a single Azure ad tenant account is having three subscription linked. So the dev subscription is hosting all the resources which belongs to a development environment. The test subscription holds all the resources belong to the test environment while the production subscription are having all the resources that belongs to the production environment. And all these subscriptions are separate from each other, but they are linked to a single tenant. So the user which are configured in the tenant can access all three subscription according to the permission assigned for that user. So the billing for those resources will be separate for each subscription. So that will help you in identifying the users of the of the subscription which are being used by your different business units.
 ```
 **Entra** : https://learn.microsoft.com/en-us/entra/fundamentals/what-is-entra  
- ![entra-product-family](https://learn.microsoft.com/en-us/entra/fundamentals/media/what-is-entra/entra-product-family.png)
- ![Azure_Active_Drectory](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Active_Drectory.png)
+![Azure subscriptions](https://raw.githubusercontent.com/piyalidas10/Azure/refs/heads/main/images/Azure_Subscription.png)
  
 </p>
 </details>
