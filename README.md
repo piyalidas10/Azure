@@ -3,22 +3,6 @@
 Azure Active Directory is now Microsoft Entra ID.
 ![Entra ID or AAD](https://raw.githubusercontent.com/piyalidas10/Azure/5ce6f9fd30f991d9ad2075fd45f3abfcc5e6e6d8/images/EntraID_AAD.svg)
 
-> [!NOTE]
-> Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)  
-> AZ-104 | Azure Administrator Associate Full Course in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLdjivcdVUZLap0DKDKFBYLNrNDYKQg08I)
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
 ### 1. What is Entra ID ?
 
 <details><summary><b>Answer</b></summary>
@@ -85,4 +69,20 @@ Now this is a diagram where you can see that the a single Azure ad tenant accoun
 </details>
 
 ---
+
+> [!NOTE]
+> Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)  
+> AZ-104 | Azure Administrator Associate Full Course in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLdjivcdVUZLap0DKDKFBYLNrNDYKQg08I)
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
