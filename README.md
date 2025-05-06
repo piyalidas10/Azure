@@ -156,6 +156,22 @@ Azure Active Directory Domain Services (Azure AD DS) is another cloud-based IAM 
 
 ---
 
+### 7. Azure AD B2C ?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+Azure Active Directory B2C provides business-to-customer identity as a service. Your customers can use their preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs.
+[Azure AD B2C Overview](https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview)
+![Azure AD B2C](https://raw.githubusercontent.com/piyalidas10/Azure/5ce6f9fd30f991d9ad2075fd45f3abfcc5e6e6d8/images/Azure_AD_B2C.png)
+
+</p>
+</details>
+
+---
+
+
 > [!NOTE]
 > Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)  
 > AZ-104 | Azure Administrator Associate Full Course in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLdjivcdVUZLap0DKDKFBYLNrNDYKQg08I)
