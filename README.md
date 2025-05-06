@@ -120,7 +120,7 @@ Example: Employees or contractors who have accounts within the organization's Az
 
 ---
 
-### 47. Azure Entra Cloud Sync ?
+### 6. Azure Entra Cloud Sync ?
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -132,6 +132,25 @@ External users can't ne used configuring Cloud Sync. You have to check identitie
 
 ```
  
+</p>
+</details>
+
+---
+
+### 7. Azure ADDs ?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+Microsoft Entra Domain Services (formerly Azure Active Directory Domain Services), part of Microsoft Entra, enables you to use managed domain services—such as Windows Domain Join, group policy, LDAP, and Kerberos authentication—without having to deploy, manage, or patch domain controllers. 
+Azure Active Directory Domain Services (Azure AD DS) is another cloud-based IAM service but it provides fully managed domain services as well. The service includes domain join, group policy, LDAP, and Kerberos authentication as its main distinctions. That said, you can use Azure AD DS with any Azure virtual machine.
+
+**Azure AD DS can be a good choice for organizations that want to:**
+ - Move their on-premises Active Directory (AD) to the cloud.
+ - Provide cloud-based resources to users who need to authenticate with a Windows domain.
+ - Run legacy applications that require a Windows domain
+
 </p>
 </details>
 
