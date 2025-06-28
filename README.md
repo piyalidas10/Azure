@@ -171,6 +171,40 @@ Azure Active Directory B2C provides business-to-customer identity as a service. 
 
 ---
 
+### 8. On Prem (On Premises) vs Cloud APIs?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### 
+On-premise involves hosting and managing software and data on your own servers, while cloud computing relies on third-party providers to host and manage resources over the internet. 
+
+**On-Premises:**
+Control: On-premise solutions offer the highest degree of control over your infrastructure, security, and data. You have complete ownership and can customize the environment to your specific needs. 
+Security: On-premise can be perceived as more secure because the data and systems are physically located within your premises, potentially limiting access to authorized personnel. 
+Cost: On-premise solutions typically require a significant upfront investment in hardware, software licenses, and ongoing maintenance costs. 
+Scalability: Scaling on-premise infrastructure can be challenging and expensive, requiring the purchase and installation of new hardware. 
+Management: On-premise solutions require a dedicated IT team for management, maintenance, and support. 
+Example: A large enterprise might choose on-premise for highly sensitive data, requiring strict control over its environment. 
+
+**Cloud Computing:**
+Scalability and Flexibility: Cloud computing excels in scalability and flexibility, allowing you to quickly adjust resources based on demand. 
+Cost Efficiency: Cloud solutions often offer a pay-as-you-go model, which can be more cost-effective than on-premise, especially for fluctuating workloads. 
+Accessibility: Cloud-based resources can be accessed from anywhere with an internet connection, providing greater flexibility and remote access. 
+Maintenance: Cloud providers handle maintenance, updates, and security, reducing the burden on your IT team. 
+Security: Cloud security is managed by the provider, and while they have robust security measures, they can also be a single point of failure. 
+Example: A startup might choose cloud computing for its agility and cost-effectiveness, particularly when dealing with variable workloads. 
+
+**Hybrid Approach:**
+Many organizations are adopting a hybrid approach, combining on-premise and cloud resources to leverage the benefits of both. 
+
+![on-premises-vs-on-cloud](https://www.geeksforgeeks.org/cloud-computing/on-premises-vs-on-cloud/)
+
+</p>
+</details>
+
+---
+
 
 > [!NOTE]
 > Microsoft Entra ID / Azure Active Directory in HINDI : [Hindi Tutorial Link](https://www.youtube.com/playlist?list=PLUGuCqrhcwZzht4r2sbByidApmrvEjL9m)  
