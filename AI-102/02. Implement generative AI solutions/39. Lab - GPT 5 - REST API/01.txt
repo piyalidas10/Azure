@@ -1,0 +1,4 @@
+curl -X POST "https://cloud-meh2dmd5-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-5-chat/chat/completions?api-version=2025-01-01-preview" ^
+-H "Content-Type: application/json" ^
+-H "Authorization: Bearer 8K9XTTblJ3pNz6O4BRO7xPF1q3qzRy0Ri6ONdGDolZ9Fn2IkveVmJQQJ99BHACHYHv6XJ3w3AAAAACOGksTd" ^
+--data-raw "{\"messages\":[{\"role\":\"user\",\"content\":\"Provide 3 real-world use cases for Generative AI\"}]}"
