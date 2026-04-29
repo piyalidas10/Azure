@@ -1,0 +1,31 @@
+### Generate caption
+
+POST https://vision3000030.cognitiveservices.azure.com/computervision/imageanalysis:analyze?features=caption&model-version=latest&language=en&api-version=2024-02-01   
+Content-Type: application/octet-stream
+Ocp-Apim-Subscription-Key: 
+
+< ./AzureAIVision-ImageTagging.png
+
+### Generate caption and tags
+
+POST https://vision3000030.cognitiveservices.azure.com/computervision/imageanalysis:analyze?features=caption,tags&model-version=latest&language=en&api-version=2024-02-01   
+Content-Type: application/octet-stream
+Ocp-Apim-Subscription-Key: 
+
+< ./AzureAIVision-ImageTagging.png
+
+### Object detection
+
+POST https://vision3000030.cognitiveservices.azure.com/computervision/imageanalysis:analyze?features=objects&model-version=latest&language=en&api-version=2024-02-01   
+Content-Type: application/octet-stream
+Ocp-Apim-Subscription-Key: 
+
+< ./set-of-fruits.png
+
+### Optical Character recognition
+
+POST https://vision3000030.cognitiveservices.azure.com/computervision/imageanalysis:analyze?features=read&model-version=latest&language=en&api-version=2024-02-01   
+Content-Type: application/octet-stream
+Ocp-Apim-Subscription-Key: 
+
+< ./quote.png
