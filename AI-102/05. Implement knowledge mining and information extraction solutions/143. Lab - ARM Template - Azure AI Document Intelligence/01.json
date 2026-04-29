@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {},
+    "functions": [],
+    "variables": {},
+    "resources": [
+        {       
+            "apiVersion": "2024-10-01",
+            "name": "document400090",
+            "location": "East US",
+            "type": "Microsoft.CognitiveServices/accounts",
+            "kind": "FormRecognizer",
+             "sku": {
+                "name": "S0"
+            },
+            "properties": {}
+        }
+    ],
+    "outputs": {}
+}

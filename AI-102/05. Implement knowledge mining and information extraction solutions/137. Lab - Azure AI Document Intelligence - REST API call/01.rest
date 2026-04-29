@@ -1,0 +1,12 @@
+### Reference - https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/get-started-sdks-rest-api?view=doc-intel-4.0.0&pivots=programming-language-rest-api
+POST https://document200020.cognitiveservices.azure.com/documentintelligence/documentModels/prebuilt-layout:analyze?api-version=2024-11-30
+Content-Type: application/json
+Ocp-Apim-Subscription-Key: 
+
+{
+    "urlSource":"https://documentstore4000.blob.core.windows.net/documents/azure_certifications_table.pdf"
+}
+
+###
+GET https://document200020.cognitiveservices.azure.com/documentintelligence/documentModels/prebuilt-layout/analyzeResults/4e65cd93-85e7-409f-a1ff-ee32d21e839c?api-version=2024-11-30
+Ocp-Apim-Subscription-Key: 

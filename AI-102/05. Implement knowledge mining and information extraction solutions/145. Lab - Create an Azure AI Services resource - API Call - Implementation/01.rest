@@ -1,0 +1,23 @@
+POST https://login.microsoftonline.com/<tenant-id>/oauth2/v2.0/token
+Content-Type: application/x-www-form-urlencoded
+
+client_id=<client-id>&
+scope=https://management.azure.com/.default&
+client_secret=<client-secret>&
+grant_type=client_credentials
+
+###
+PUT https://management.azure.com/subscriptions/<subscription-id>/resourceGroups/<resource-group-name>/providers/Microsoft.CognitiveServices/accounts/<resource-name>?api-version=2023-05-01
+Authorization: Bearer 
+Content-Type: application/json
+
+{
+  "location": "eastus",
+  "sku": {
+    "name": "S0"
+  },
+  "kind": "CognitiveServices",
+  "properties": {
+    
+  }
+}
