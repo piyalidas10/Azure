@@ -1,0 +1,11 @@
+1. An example of copying a file from the local machine onto the virtual machine
+scp .env dockerusr@172.172.147.43:/home/dockerusr
+
+2. Next we build the Docker image
+sudo docker build -t model-chat .
+
+3. Then we run the Docker image
+sudo docker run --env-file .env -p 8000:8000 model-chat
+
+4. We can then issue a request against the Docker container
+curl -X POST "http://172.174.48.215:8000/ask" -H "Content-Type: application/json" -d "{\"user_prompt\":\"Explain supervised vs unsupervised learning\",\"system_prompt\":\"You are a helpful AI teacher.\",\"history\":[]}"
