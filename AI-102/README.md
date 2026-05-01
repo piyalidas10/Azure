@@ -20,6 +20,15 @@
 
 ## 🔐 Regional API Endpoint vs Custom Subdomain API (Azure OpenAI)
 
+👉 Regional endpoint = shared public highway  
+👉 Custom subdomain = your private gated road  
+
+**🔐 Entra ID (only works with custom subdomain)**
+```
+from azure.identity import DefaultAzureCredential
+```
+👉 This will NOT work with regional endpoint
+
 🌍 1. Regional API Endpoint (default)
 --------------------------------------------------------------------------
 👉 Format:
