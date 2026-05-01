@@ -19,6 +19,7 @@
 > A unified platform where you can develop your AI based application as well, and you can use other Azure AI services as well, for example, language service, speech service, content safety.
 
 ## 🔐 Regional API Endpoint vs Custom Subdomain API (Azure OpenAI)
+Custom subdomain names for Foundry Tools : https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-custom-subdomains
 
 👉 Regional endpoint = shared public highway  
 👉 Custom subdomain = your private gated road  
