@@ -13,3 +13,6 @@
 ## Accounts - Regenerate Key
 1. https://learn.microsoft.com/en-us/rest/api/aiservices/accountmanagement/accounts/regenerate-key?view=rest-aiservices-accountmanagement-2024-10-01&tabs=HTTP
 
+### Azure AI Foundary Portal
+> A One Stop Shop where you can use Azure, OpenAI as well, and you can use other Azure AI services as well.
+> A unified platform where you can develop your AI based application as well, and you can use other Azure AI services as well, for example, language service, speech service, content safety.
